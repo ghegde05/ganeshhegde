@@ -1,60 +1,8 @@
-<h2 id="publications">Publications</h2>
-
-<h3 style="margin-top: 20px;">Book Chapters</h3>
-<div class="publications">
-<ol class="bibliography">
-  {% for pub in site.data.publications.book_chapters %}
-  <li>
-    <div class="pub-row">
-      <div class="col-sm-12">
-        <div class="title"><strong>{{ pub.title }}</strong></div>
-        <div class="author">{{ pub.authors }}</div>
-        <div class="periodical"><em>{{ pub.conference }}</em></div>
-        <div class="links">
-          {% if pub.pdf %}<a href="{{ pub.pdf }}" class="btn btn-sm">PDF</a>{% endif %}
-          {% if pub.page %}<a href="{{ pub.page }}" class="btn btn-sm">Link</a>{% endif %}
-        </div>
-      </div>
-    </div>
-  </li>
-  {% endfor %}
-</ol>
-</div>
-
-<h3 style="margin-top: 20px;">Journal Publications</h3>
-<div class="publications">
-<ol class="bibliography">
-  {% for pub in site.data.publications.journals %}
-  <li>
-    <div class="pub-row">
-      <div class="col-sm-12">
-        <div class="title"><strong>{{ pub.title }}</strong></div>
-        <div class="author">{{ pub.authors }}</div>
-        <div class="periodical"><em>{{ pub.conference }}</em></div>
-        <div class="links">
-          {% if pub.paper_url %}<a href="{{ pub.paper_url }}" class="btn btn-sm">Paper</a>{% endif %}
-        </div>
-      </div>
-    </div>
-  </li>
-  {% endfor %}
-</ol>
-</div><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <title>Ganesh Hegde | Princeton University & IIT Delhi</title>
-
+    <title>Ganesh Hegde | Princeton University</title>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Personal homepage of Ganesh Hegde, researcher in energy systems and geo-spatial modelling.">
-    <meta name="keywords" content="Ganesh Hegde, GIS, Energy Systems, Princeton, IIT Delhi, Net Zero India">
-
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/favicon-dark.png" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="./assets/img/favicon.png" type="image/png" />
-    
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css>
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css>
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/publications.css">
   </head>
@@ -63,66 +11,39 @@
       <header>
         <a class="image avatar"><img src="./assets/img/avatar.png" alt="Ganesh Hegde" /></a>
         <h1>Ganesh Hegde</h1>
-        <position style="font-size:1.10rem;">Postdoctoral Research Associate</position>
-        <br>
-        <a href="https://acee.princeton.edu/" rel="noopener"><autocolor>Princeton University</autocolor></a>
-        <br>
-        <email>ganeshhegde (at) princeton.edu</email>
-
-        <br><br>
+        <p style="font-size:1.10rem;">Postdoctoral Research Associate</p>
+        <p>Princeton University / IIT Delhi</p>
+        <p>ganeshhegde (at) princeton.edu</p>
         <div class="social-icons">
           <a href="https://scholar.google.com/"><i class="ai ai-google-scholar"></i></a>  
-          <a href="assets/files/CV_Ganesh_Hegde_Feb-2026.pdf"><i class="ai ai-cv"></i></a>
           <a href="https://github.com/ghegde05"><i class="fab fa-github"></i></a>
-          <a href="https://www.linkedin.com/"><i class="fab fa-linkedin"></i></a>
         </div>
       </header>
 
       <section>
-        <h2 id="about-me">About Me</h2>
-        <p>
-          I am a Postdoctoral Research Associate at the <strong>Andlinger Center for Energy and the Environment (ACEE), Princeton University</strong>[cite: 2]. 
-          Currently, I am also a <strong>Schmidt Sciences Visiting Research Scholar</strong> at IIT Delhi. 
-          My research leads net-zero India modelling and downscaling efforts, focusing on geo-spatial modelling for decarbonization[cite: 17, 22].
-        </p>
+        <h2>About Me</h2>
+        <p>I am a Postdoctoral Research Associate at Princeton University[cite: 2, 21]. My research focuses on energy systems and geo-spatial modelling of India’s power system for decarbonization[cite: 24].</p>
 
-        <h2 id="research-interests">Research Interests</h2>
+        <h2>Experience</h2>
         <ul>
-          <li><strong>Energy Systems:</strong> Decarbonization pathways, net-zero modelling, and VRE siting[cite: 18, 24].</li>
-          <li><strong>GIS & Remote Sensing:</strong> Renewable energy potential assessment and decentralized energy planning[cite: 37, 85].</li>
+          <li><strong>Schmidt-Sciences Visiting Research Scholar</strong>, IIT Delhi (2026) [cite: 15-16]</li>
+          <li><strong>Postdoctoral Research Associate</strong>, Princeton University (2022-2025) [cite: 20-21]</li>
         </ul>
 
-        <h2 id="news">News</h2>
+        <h2>Education</h2>
         <ul>
-          <li><strong>[Feb. 2026]</strong> Started as Schmidt-Sciences Visiting Research Scholar at IIT Delhi[cite: 15].</li>
-          <li><strong>[Mar. 2022]</strong> Joined Princeton University as a Postdoctoral Research Associate[cite: 20].</li>
-          <li><strong>[2022]</strong> Received the Best PhD Thesis Award from IIT Bombay[cite: 8, 9].</li>
+          <li><strong>PhD</strong>, Indian Institute of Technology Bombay (2021) [cite: 4]</li>
+          <li><strong>ME</strong>, Bangalore University (2015) [cite: 6]</li>
         </ul>
 
-        <h2 id="publications">Publications</h2>
-        
-        <h3 class="pub-category">Book Chapters</h3>
-        <div class="publications">
-          <ol class="bibliography">
-            {% for pub in site.data.publications.book_chapters %}
-            <li>
-              <div class="pub-row">
-                <div class="col-sm-12">
-                  <div class="title">{{ pub.title }}</div>
-                  <div class="author">{{ pub.authors }}</div>
-                  <div class="periodical"><em>{{ pub.conference }}</em></div>
-                  <div class="links">
-                    {% if pub.pdf %}<a href="{{ pub.pdf }}" class="btn btn-sm">PDF</a>{% endif %}
-                    {% if pub.page %}<a href="{{ pub.page }}" class="btn btn-sm">Link</a>{% endif %}
-                  </div>
-                </div>
-              </div>
-            </li>
-            {% endfor %}
-          </ol>
-        </div>
+        <h2>Technical Toolkit</h2>
+        <ul>
+          <li><strong>GIS Tools:</strong> QGIS, ArcGIS Pro, FOSS4G [cite: 85]</li>
+          <li><strong>Modeling:</strong> MATLAB, Julia-Jump, Macro-Energy Systems [cite: 84]</li>
+        </ul>
 
-        <h3 class="pub-category">Journal Publications</h3>
+        <h2>Publications</h2>
+        <h3>Journal Publications</h3>
         <div class="publications">
           <ol class="bibliography">
             {% for pub in site.data.publications.journals %}
@@ -132,24 +53,12 @@
                   <div class="title">{{ pub.title }}</div>
                   <div class="author">{{ pub.authors }}</div>
                   <div class="periodical"><em>{{ pub.conference }}</em></div>
-                  <div class="links">
-                    {% if pub.paper_url %}<a href="{{ pub.paper_url }}" class="btn btn-sm">Paper</a>{% endif %}
-                  </div>
                 </div>
               </div>
             </li>
             {% endfor %}
           </ol>
         </div>
-
-        <h2 id="technical-toolkit">Technical Toolkit</h2>
-        <ul>
-          <li><strong>Modeling:</strong> Macro-Energy Systems, MATLAB, Julia-Jump[cite: 84].</li>
-          <li><strong>GIS Tools:</strong> QGIS, ArcGIS Pro, FOSS4G[cite: 85].</li>
-          <li><strong>Analysis:</strong> R, Python, STATA, IBM SPSS[cite: 86].</li>
-        </ul>
-
-        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light">Minimal Light</a>.</small></p>
       </section>
     </div>
   </body>
