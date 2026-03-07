@@ -1,4 +1,45 @@
-<!DOCTYPE html>
+<h2 id="publications">Publications</h2>
+
+<h3 style="margin-top: 20px;">Book Chapters</h3>
+<div class="publications">
+<ol class="bibliography">
+  {% for pub in site.data.publications.book_chapters %}
+  <li>
+    <div class="pub-row">
+      <div class="col-sm-12">
+        <div class="title"><strong>{{ pub.title }}</strong></div>
+        <div class="author">{{ pub.authors }}</div>
+        <div class="periodical"><em>{{ pub.conference }}</em></div>
+        <div class="links">
+          {% if pub.pdf %}<a href="{{ pub.pdf }}" class="btn btn-sm">PDF</a>{% endif %}
+          {% if pub.page %}<a href="{{ pub.page }}" class="btn btn-sm">Link</a>{% endif %}
+        </div>
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ol>
+</div>
+
+<h3 style="margin-top: 20px;">Journal Publications</h3>
+<div class="publications">
+<ol class="bibliography">
+  {% for pub in site.data.publications.journals %}
+  <li>
+    <div class="pub-row">
+      <div class="col-sm-12">
+        <div class="title"><strong>{{ pub.title }}</strong></div>
+        <div class="author">{{ pub.authors }}</div>
+        <div class="periodical"><em>{{ pub.conference }}</em></div>
+        <div class="links">
+          {% if pub.paper_url %}<a href="{{ pub.paper_url }}" class="btn btn-sm">Paper</a>{% endif %}
+        </div>
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ol>
+</div><!DOCTYPE html>
 <html lang="en-US">
   <head>
     <title>Ganesh Hegde | Princeton University & IIT Delhi</title>
