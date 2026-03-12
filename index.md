@@ -18,7 +18,7 @@ It wasn't supposed to be like this. Indeed, not for so long. All it took was a r
 
 ### *untitled*
 
-##There is a strange sense of comfort in this chaos. An unusual warmth to this cold and a surprisingly secure feeling in this lonely mess. I know most people hate this. This damp. This disordered world. But subconsciously, mostly unknowingly, biological life seems to be like this. At least the biological life we managed to dig up until now (although some of them are really frozen because of immense pressure and temperature (sure, you may think of dinosaurs), evidence never denies they didn't particularly enjoy this. So, I'll assume.
+There is a strange sense of comfort in this chaos. An unusual warmth to this cold and a surprisingly secure feeling in this lonely mess. I know most people hate this. This damp. This disordered world. But subconsciously, mostly unknowingly, biological life seems to be like this. At least the biological life we managed to dig up until now (although some of them are really frozen because of immense pressure and temperature (sure, you may think of dinosaurs), evidence never denies they didn't particularly enjoy this. So, I'll assume.
 
 We complain. We complain about this unpredictable mess. But we smile.. When a stranger pass by while he's just straightening his tucked-in shirt with one hand. When that little girl took a pause to gather her confidence and also her leg strength before jumping over that puddle. When a young lady put her hand back to search for the flower, she was wearing in the morning... And you remembered, you picked up one just before a vehicle crashed it. More often than we admit, we smile!
 
