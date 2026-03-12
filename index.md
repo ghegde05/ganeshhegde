@@ -4,8 +4,7 @@
 
 
 ---
-layout: home
-title: Happy Birthday!
+*Happy Birthday!*
 I still don't know how one gets born as a human. Of all the trillions of combinations and possibilities in the space-time continuum of this universe, it is phenomenal that we get to be humans. There must be something unique, something right that must have happened for us to be alive right here, right now. But, what is even more incredible in my life is not that I got to take birth as one of those humans, it is actually that you are also alive right here and right now and I got to meet you and be with you. That's just unbelievable. One of those rare things nobody believes if it doesn't happen to them, as did I. So, among all the astonishing phenomena that you have been, you are and you will be, your birth was a thankful beginning. May you have many more such beginnings! And I may get to witness that. Happy Birthday! 
 ---
 
