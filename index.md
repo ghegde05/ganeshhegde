@@ -4,12 +4,13 @@
 
 
 ---
-##*Happy Birthday!*
-##I still don't know how one gets born as a human. Of all the trillions of combinations and possibilities in the space-time continuum of this universe, it is phenomenal that we get to be humans. There must be something unique, something right that must have happened for us to be alive right here, right now. But, what is even more incredible in my life is not that I got to take birth as one of those humans, it is actually that you are also alive right here and right now and I got to meet you and be with you. That's just unbelievable. One of those rare things nobody believes if it doesn't happen to them, as did I. So, among all the astonishing phenomena that you have been, you are and you will be, your birth was a thankful beginning. May you have many more such beginnings! And I may get to witness that. Happy Birthday, bale! 
+### *Happy Birthday!*
+
+I still don't know how one gets born as a human. Of all the trillions of combinations and possibilities in the space-time continuum of this universe, it is phenomenal that we get to be humans. There must be something unique, something right that must have happened for us to be alive right here, right now. But, what is even more incredible in my life is not that I got to take birth as one of those humans, it is actually that you are also alive right here and right now and I got to meet you and be with you. That's just unbelievable. One of those rare things nobody believes if it doesn't happen to them, as did I. So, among all the astonishing phenomena that you have been, you are and you will be, your birth was a thankful beginning. May you have many more such beginnings! And I may get to witness that. Happy Birthday, bale! 
 
 ---
 
-## *Longing is the cure...*
+### *Longing is the cure...*
 It wasn't supposed to be like this. Indeed, not for so long. All it took was a really stupid idea. A daring one, in my defense. A temptation that eventually got the approval of the universe. A palpable urge to take a little peek into the most amusing world. A kaleidoscope of possibilities. Confidence to bridge the longing with destiny. Or perhaps, after all, all this was inevitable!
 ##Longing is the cure... until you meet.
 
@@ -36,7 +37,8 @@ years (I hope) these tiny particles will uncompromisingly engage in all the
 billions of deft, cooperative efforts necessary to keep you intact and let you
 experience the supremely special but generally underappreciated state
 known as you (or your existnace).
-##Why atoms take this trouble is a bit of a puzzle. Being you is not a gratifying experience at the atomic level. For all their devoted attention, your
+
+Why atoms take this trouble is a bit of a puzzle. Being you is not a gratifying experience at the atomic level. For all their devoted attention, your
 atoms don't actually care about you-indeed, don't even know that you are
 there. They are mindless particles, after all, and not even themselves alive. (It is a slightly distrubi). Yet somehow for the period of your existence, they will answer to a single overarching impulse: to keep you. Now I don't know why do they do or why do you exist. But it's my privilege that I share this time and space continuum with you (every version of you even at the atomic level). That's all I ever know and want about this existence. 
 
