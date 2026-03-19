@@ -22,8 +22,6 @@ Additionally, I am affiliated with [Transitions Research Goa](https://transition
 - **Statistical Analysis:** R, Python, STATA, IBM SPSS.
 - **Specialized Training:** Smart Transmission Grids, Solar PV Grid-Connected Plants, decentralised electrification, SCADA/EMS
 
-{% include paper_link.html title="Understanding Energy Inequality in India" url="https://csestore.cse.org.in/usd/state-of-india-s-environment-2022.html" %}
-
-{% include paper_link.html title="Analysing the Inequality Pathways of Domestic Electricity Consumption in India" url="https://link.springer.com/chapter/10.1007/978-981-15-%202666-4_68" %}
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
