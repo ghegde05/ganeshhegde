@@ -4,7 +4,8 @@
 
 <ul style="margin:0 0 20px;">
   <li>Understanding Energy Inequality in India (<a href="https://csestore.cse.org.in/usd/state-of-india-s-environment-2022.html">chapter</a>)</li>
-<ul style="margin:0 0 20px;">
+</ul>
+  <ul style="margin:0 0 20px;">
   <li>Analysing the Inequality Pathways of Domestic Electricity Consumption in India (<a href="https://link.springer.com/chapter/10.1007/978-981-15- 2666-4_68">chapter</a>)</li>
 </ul>
 
