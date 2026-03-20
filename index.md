@@ -1,6 +1,7 @@
 ---
 layout: homepage
 ---
+## about me
 
 I am currently a Schmidt Sciences visiting researcher at the School of Public Policy, IIT Delhi. Before that, I was a postdoctoral research associate at Princeton University, specializing in power systems engineering and energy transition research. My work aims to contribute to the understanding of climate change and energy system decarbonization, fostering a sense of shared purpose with peers.
 
@@ -17,9 +18,9 @@ Additionally, I am affiliated with [Transitions Research Goa](https://transition
 
 ## technical toolkit
 
-- **Modeling & Simulation:** Macro-Energy Systems, optimization.
-- **Geo-spatial Tools:** QGIS, ArcGIS Pro, Google Earth Engine.
-- **Statistical Analysis:** R, Python, STATA, IBM SPSS.
+- **Modeling & Simulation:** Macro-Energy Systems, optimization
+- **Geo-spatial Tools:** QGIS, ArcGIS Pro, Google Earth Engine
+- **Statistical Analysis:** R, Python, STATA, IBM SPSS
 - **Specialized Training:** Smart Transmission Grids, Solar PV Grid-Connected Plants, decentralised electrification, SCADA/EMS
 
 {% include_relative _includes/publications.md %}
