@@ -4,7 +4,6 @@
 
 <ul style="margin:0 0 20px;">
   <li>Understanding Energy Inequality in India (<a href="https://csestore.cse.org.in/usd/state-of-india-s-environment-2022.html">chapter</a>)</li>
-</ul>
 <ul style="margin:0 0 20px;">
   <li>Analysing the Inequality Pathways of Domestic Electricity Consumption in India (<a href="https://link.springer.com/chapter/10.1007/978-981-15- 2666-4_68">chapter</a>)</li>
 </ul>
@@ -14,13 +13,13 @@
 
 <ul style="margin:0 0 20px;">
   <li>Potential of India’s AFOLU sector in achieving net zero: A systematic review of land-based mitigation strategies (<a href="https://doi.org/10.1016/j.landusepol.2025.107798">paper</a>)</li>
-</ul>
+
 <ul style="margin:0 0 20px;">
   <li>Missing Linkages in the Electricity–Water Nexus in Indian Agriculture (<a href="http://dspace.library.iitb.ac.in/xmlui/handle/100/38860">paper</a>)</li>
-</ul>
+
 <ul style="margin:0 0 20px;">
   <li>The uneven expansion of electricity supply in India: The logics of clientelism, incrementalism and maximin (<a href="https://www.sciencedirect.com/science/article/pii/S221462962100219X?dgcid=coauthor">paper</a>)</li>
-</ul>
+
 <ul style="margin:0 0 20px;">
   <li>all published work (<a href="https://scholar.google.com/citations?user=tg57FhcAAAAJ&hl=en">google scholar</a>)</li>
 </ul>
