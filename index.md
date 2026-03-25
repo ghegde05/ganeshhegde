@@ -1,6 +1,36 @@
 ---
 layout: homepage
 ---
+<style>
+  /* Global link transition for a "soothing" feel */
+  a { transition: all 0.3s ease; }
+
+  /* Style for your publications list */
+  .pub-list {
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 25px;
+  }
+
+  .pub-list li {
+    margin-bottom: 12px;
+    line-height: 1.6;
+  }
+
+  /* The specific "paper" or "chapter" link style */
+  .doc-link {
+    color: #002D72; /* Matches your theme's global-theme-color */
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 45, 114, 0.2);
+    font-weight: 500;
+  }
+
+  .doc-link:hover {
+    color: #d32f2f; /* NYT-style editorial red */
+    border-bottom: 1px solid #d32f2f;
+    background-color: rgba(211, 47, 47, 0.05);
+  }
+</style>
 ## about me
 
 I am currently a Schmidt Sciences visiting researcher at the School of Public Policy, IIT Delhi. Before that, I was a postdoctoral research associate at Princeton University, specializing in power systems engineering and energy transition research. My work aims to contribute to the understanding of climate change and energy system decarbonization, fostering a sense of shared purpose with peers.
